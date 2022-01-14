@@ -57,13 +57,13 @@ $ pip2 install mechanize lolcat
 $ pip2 install requests bs4
 $ pip2 install futures
 $ apt install git
-$ git clone https://github.com/GUPTA-SHAKEL/MARK-BEST999.git
+$ git clone https://github.com/GUPTA-SHAKEL/FYP.git
 ```
 #### RUN SCRIPT
 ```python2
-$ cd MARK-BEST999
+$ cd FYP
 $ git pull
-$ python2 PREM-U.py
+$ python2 Paid.so
 ```
 #### :closed_lock_with_key: KEY PASSWORD ⁉️
 
